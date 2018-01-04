@@ -1,5 +1,4 @@
 ---
-title: "ModernFuzzBall2"
 ---
 
 # ModernFuzzBall2
